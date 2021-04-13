@@ -1,0 +1,18 @@
+<PDF>
+	<chaves>
+		<chave name="CHAVE_MODELO" value="JUSPREV" posIni="223" posFim="298"></chave>
+		<chave name="CHAVE_DATA_BASE_CALCULO" value="Ano atual" posIni="90" posFim="92"></chave>
+		<chave name="CHAVE_VALOR_PRINCIPAL" value="Total Geral em" posIni="22" posFim="43"></chave>
+		<chave name="CHAVE_VALOR_JUROS" value="Total das Parcelas" posIni="29" posFim="48"></chave>
+		<chave name="CHAVE_QTD_PARCELAS_ANOS_ANTERIORES" value="Anos anteriores" posIni="67" posFim="78"></chave>
+		<chave name="CHAVE_VALOR_ANOS_ANTERIORES" value="Anos anteriore" posIni="73" posFim="85" ></chave>
+		<chave name="CHAVE_ANO_ATUAL_SOMENTE" value="Ano atual (" posIni="11" posFim="15" ></chave>
+		<chave name="CHAVE_QTD_PARCELAS_ANO_ATUAL" value="Ano atua" posIni="64" posFim="67"></chave>
+		<chave name="CHAVE_VALOR_ANO_ATUAL" value="Ano atu" posIni="70" posFim="85"></chave>
+		<chave name="CHAVE_DATA_MES_BASE_CALCULO" value="monetariamente" posIni="19" posFim="21"></chave>
+		<chave name="CHAVE_DATA_ANO_BASE_CALCULO" value="monetariamente até" posIni="22" posFim="26"></chave>
+		<chave name="TODAS_PARCELAS_ANTERIORES" value="todasParcelasAnteriores" posIni="" posFim=""></chave>
+		<chave name="EXPLANATION" value="explanation" posIni="" posFim=""></chave>
+		<chave name="PATH_PDF" value="/Users/evandroandrade/Python/JFRN/LerCalculo/modelos/calculos.pdf" posIni="" posFim=""></chave>
+	</chaves>
+</PDF>
